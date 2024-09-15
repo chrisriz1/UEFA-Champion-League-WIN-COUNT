@@ -1,5 +1,11 @@
 # UEFA-Champion-League-WIN-COUNT
-Description
-This project was done to extract data from a website regarding the teams that have won the UEFA Champions League and to count the number of times they won. 
-Along with a colleague of mine we were able to use Python and the various packages offered to create a visualization. 
+Project Overview
+
+Primarily using Python and the packages offered I extracted data from a UEFA Champions League winner table on the Marca website: https://www.marca.com/en/football/champions-league/winners.html
+
+Prerequisites
+Python Libraries Required:
+- requests
+- beautifulsoup4
+- matplotlib
 
