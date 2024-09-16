@@ -3,14 +3,14 @@
 
 Primarily using Python and the packages offered I extracted data from a UEFA Champions League winner table on the Marca website: https://www.marca.com/en/football/champions-league/winners.html
 
-**Prerequisites**
+<ins>**Prerequisites**</ins>
 
 Python Libraries Required:
 - requests
 - beautifulsoup4
 - matplotlib
 
-Features
+<ins>Features</ins>
 
 **Web Scraping**: Extract Champions League winner data using Python's requests library and BeautifulSoup for HTML Parsing
 
@@ -20,10 +20,10 @@ Features
 
 **Custom Team Colors**: Assign colors to team to distinguish between different teams
 
-**OUTPUT**
+<ins>**OUTPUT**</ins>
 
 The final output is a horizontal bar chart where the x axis represents the number of times the teams have won and the y-axis represents the names of the teams
 
-**LICENSE**
+<ins>**LICENSE**</ins>
 
 This project is licensed under the MIT License. See the license file for details
