@@ -19,3 +19,11 @@ Features
 **Data Visualization**: Using matplotlib a bar chart was created
 
 **Custom Team Colors**: Assign colors to team to distinguish between different teams
+
+**OUTPUT**
+
+The final output is a horizontal bar chart where the x axis represents the number of times the teams have won and the y-axis represents the names of the teams
+
+**LICENSE**
+
+This project is licensed under the MIT License. See the license file for details
